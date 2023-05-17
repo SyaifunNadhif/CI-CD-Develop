@@ -6,6 +6,7 @@ const truncate = require('../utils/truncate');
 truncate.user();
 
 const user = {
+    id: '1',
     name: 'sabrina',
     email: 'sabrina3@mail.com',
     password: 'password123',
